@@ -9,8 +9,5 @@
 
 
 ## 参考书目
-《Java技术手册（第6版）》
-《Thinking in Java》
-《Java 8 实战》
-《Java经典实例（第三版）》
+《Java技术手册（第6版）》、《Thinking in Java》、《Java 8 实战》、《Java经典实例（第三版）》
 
