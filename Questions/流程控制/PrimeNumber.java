@@ -22,9 +22,6 @@ public class PrimeNumber {
                     System.out.print((int)j + " ");
                 }
             }
-
         }
-
-
     }
 }
